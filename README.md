@@ -141,8 +141,7 @@ _Add screenshot here_
 
 ### Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashrithbejjarapu/)
 
 ---
 
