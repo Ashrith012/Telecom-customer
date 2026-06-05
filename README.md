@@ -141,7 +141,7 @@ _Add screenshot here_
 
 ### Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashrithbejjarapu/)
+- LinkedIn: https://www.linkedin.com/in/ashrithbejjarapu/
 
 ---
 
