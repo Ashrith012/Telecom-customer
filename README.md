@@ -102,13 +102,16 @@ Telecom-Churn-Analysis/
 ## 📸 Dashboard Screenshots
 
 ### Home Dashboard
-_Add screenshot here_
+<img width="1171" height="656" alt="image" src="https://github.com/user-attachments/assets/601c71dd-3439-4948-9770-9d44bcb11a4d" />
+
 
 ### Summary Dashboard
-_Add screenshot here_
+<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/a354ca08-9a0d-4e71-b710-30cf9ae5cea5" />
+
 
 ### Ask a Question Dashboard
-_Add screenshot here_
+<img width="1341" height="726" alt="image" src="https://github.com/user-attachments/assets/b90b70f3-ae3a-4dd1-860d-b47fb651de84" />
+
 
 ---
 
